@@ -10,7 +10,7 @@ function cekKodam() {
         "Kodam Naga Pelindung",
         "Kodam Kura-kura Bijaksana",
         "Kodam Semut Super",
-        "Kodam Burung Tukang Gosip"
+        "kodam biawak komodo"
     ];
 
     // Ambil kodam random
